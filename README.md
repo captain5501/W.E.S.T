@@ -114,4 +114,4 @@ Contributions are encouraged! Please fork the repository and submit a pull reque
 
 ## Contact
 
-For questions or feedback, please raise an issue on the GitHub repository or reach out to captainp5501@gmail.com
+For questions or feedback, please raise an issue on the GitHub repository.
